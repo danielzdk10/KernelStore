@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-22 02:49:20.460085200 UTC
+// 2026-05-22 02:12:27.649286600 UTC
 
 #pragma once
 
@@ -220,6 +220,10 @@ namespace cs2_dumper {
         // Module: v8system.dll
         namespace v8system_dll {
             constexpr std::ptrdiff_t Source2V8System001 = 0x31730;
+        }
+        // Module: vconcomm.dll
+        namespace vconcomm_dll {
+            constexpr std::ptrdiff_t VConComm001 = 0x395C0;
         }
         // Module: vphysics2.dll
         namespace vphysics2_dll {
