@@ -1,1 +1,1 @@
-https://github.com/danielzdk10/KernelStore/releases/download/1.0/CS2.zip
+https://github.com/danielzdk10/KernelStore/releases/download/1.0/dbd.zip
